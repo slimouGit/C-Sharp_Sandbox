@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Decisions
 {
-    class Program
+    class TryParse
     {
         static void Main(string[] args)
         {
@@ -19,29 +19,12 @@ namespace Decisions
 
 
                 if (convertSuccess) {
-                    testAge(age);
+                Console.WriteLine("Success");
                     Console.Read();
                 } 
                 
 
             
-        }
-
-        public static void testAge(int age)
-        {
-            
-            if (age < 16)
-            {
-                Console.WriteLine("Kein Alkohol erlaubt");
-            }
-            else if (age < 18)
-            {
-                Console.WriteLine("nur Bier und Wein ist erlaubt");
-            }
-            else
-            {
-                Console.WriteLine("alles erlaubt, aber nicht gesund");
-            }
         }
     }
 }

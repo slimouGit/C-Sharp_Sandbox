@@ -6,30 +6,20 @@ using System.Threading.Tasks;
 
 namespace Decisions
 {
-    class Program
+    class testAge
     {
         static void Main(string[] args)
         {
-            int age; 
-
             Console.WriteLine("Bitte ein Alter eingeben:");
             string input = Console.ReadLine();
+            int age = Convert.ToInt32(input);
+            testAge(age);
 
-            bool convertSuccess = Int32.TryParse(input, out age)
-
-
-                if (convertSuccess) {
-                    testAge(age);
-                    Console.Read();
-                } 
-                
-
-            
+            Console.Read();
         }
 
         public static void testAge(int age)
         {
-            
             if (age < 16)
             {
                 Console.WriteLine("Kein Alkohol erlaubt");
@@ -38,8 +28,7 @@ namespace Decisions
             {
                 Console.WriteLine("nur Bier und Wein ist erlaubt");
             }
-            else
-            {
+            else {
                 Console.WriteLine("alles erlaubt, aber nicht gesund");
             }
         }
