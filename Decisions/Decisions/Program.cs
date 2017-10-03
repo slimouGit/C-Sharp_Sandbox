@@ -26,7 +26,15 @@ namespace Decisions
                 Console.WriteLine("hebe 10 Euro ab");
             }
 
+            string temperaturString = Console.ReadLine();
+            int temperatur = Convert.ToInt32(temperaturString);
+            whatforCloses(temperatur);
+
             Console.Read();
+        }
+
+        public static void whatforCloses(int temperatur) {
+            Console.WriteLine("Temperatur ist: " + temperatur);
         }
     }
 }
