@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fuctions_Methods", "Fuctions_Methods\Fuctions_Methods.csproj", "{21C0D5F7-7AC3-48FB-BE28-FEAF2612D839}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions_Methods", "Fuctions_Methods\Functions_Methods.csproj", "{21C0D5F7-7AC3-48FB-BE28-FEAF2612D839}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
