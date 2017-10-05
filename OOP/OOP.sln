@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "CSharp_Sandbox\Classes.csproj", "{54CB287D-2185-4F95-8DB2-40DD4BF8D409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{B645CF3C-BE21-404F-B814-329199343103}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphy", "Polymorphy\Polymorphy.csproj", "{828C4F56-52D4-4E80-A195-4A3D7636F481}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54CB287D-2185-4F95-8DB2-40DD4BF8D409}.Debug|x86.ActiveCfg = Debug|x86
+		{54CB287D-2185-4F95-8DB2-40DD4BF8D409}.Debug|x86.Build.0 = Debug|x86
+		{54CB287D-2185-4F95-8DB2-40DD4BF8D409}.Release|x86.ActiveCfg = Release|x86
+		{54CB287D-2185-4F95-8DB2-40DD4BF8D409}.Release|x86.Build.0 = Release|x86
+		{B645CF3C-BE21-404F-B814-329199343103}.Debug|x86.ActiveCfg = Debug|x86
+		{B645CF3C-BE21-404F-B814-329199343103}.Debug|x86.Build.0 = Debug|x86
+		{B645CF3C-BE21-404F-B814-329199343103}.Release|x86.ActiveCfg = Release|x86
+		{B645CF3C-BE21-404F-B814-329199343103}.Release|x86.Build.0 = Release|x86
+		{828C4F56-52D4-4E80-A195-4A3D7636F481}.Debug|x86.ActiveCfg = Debug|x86
+		{828C4F56-52D4-4E80-A195-4A3D7636F481}.Debug|x86.Build.0 = Debug|x86
+		{828C4F56-52D4-4E80-A195-4A3D7636F481}.Release|x86.ActiveCfg = Release|x86
+		{828C4F56-52D4-4E80-A195-4A3D7636F481}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

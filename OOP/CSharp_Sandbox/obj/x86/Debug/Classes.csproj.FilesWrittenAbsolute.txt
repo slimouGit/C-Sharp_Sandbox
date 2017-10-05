@@ -1,0 +1,5 @@
+/Users/salimoussayfi/C-Sharp_Sandbox/OOP/CSharp_Sandbox/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/salimoussayfi/C-Sharp_Sandbox/OOP/CSharp_Sandbox/obj/x86/Debug/CSharp_Sandbox.exe
+/Users/salimoussayfi/C-Sharp_Sandbox/OOP/CSharp_Sandbox/obj/x86/Debug/CSharp_Sandbox.pdb
+/Users/salimoussayfi/C-Sharp_Sandbox/OOP/CSharp_Sandbox/bin/Debug/CSharp_Sandbox.pdb
+/Users/salimoussayfi/C-Sharp_Sandbox/OOP/CSharp_Sandbox/bin/Debug/CSharp_Sandbox.exe

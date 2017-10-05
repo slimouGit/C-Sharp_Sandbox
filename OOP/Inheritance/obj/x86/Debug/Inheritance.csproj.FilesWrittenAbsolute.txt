@@ -1,0 +1,5 @@
+/Users/salimoussayfi/C-Sharp_Sandbox/OOP/Inheritance/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/salimoussayfi/C-Sharp_Sandbox/OOP/Inheritance/bin/Debug/Inheritance.pdb
+/Users/salimoussayfi/C-Sharp_Sandbox/OOP/Inheritance/bin/Debug/Inheritance.exe
+/Users/salimoussayfi/C-Sharp_Sandbox/OOP/Inheritance/obj/x86/Debug/Inheritance.exe
+/Users/salimoussayfi/C-Sharp_Sandbox/OOP/Inheritance/obj/x86/Debug/Inheritance.pdb
