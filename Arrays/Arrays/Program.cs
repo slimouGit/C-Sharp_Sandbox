@@ -27,6 +27,11 @@ namespace Arrays
 
             Console.WriteLine(names.Length);
 
+            int[,] temperature = new int[,] { { 6, 12, 18 }, { 22, 30, 29 } };
+            Console.WriteLine(temperature[0,0]);
+            for (int i = 0; i < temperature.Length; i++) {
+
+            }
 
             Console.Read();
 
