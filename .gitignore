@@ -259,3 +259,8 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+SessionArrayLists/SessionArrayLists/SessionArrayLists.csproj
+SessionArrayLists/SessionArrayLists.sln
+SessionArrayLists/SessionArrayLists/App.config
+SessionArrayLists/SessionArrayLists/Program.cs
+SessionArrayLists/SessionArrayLists/Properties/AssemblyInfo.cs
