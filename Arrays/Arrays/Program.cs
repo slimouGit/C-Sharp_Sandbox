@@ -27,6 +27,7 @@ namespace Arrays
 
             Console.WriteLine(names.Length);
 
+
             Console.Read();
 
         }
